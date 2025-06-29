@@ -6,7 +6,7 @@
 
 **InsightPredictor** is a structured machine learning pipeline focused on regression-based prediction using synthetic data. It simulates a real-world AI development workflow - including data generation, training, evaluation, and prediction - backed by version-controlled contributions with accurate historical context.
 
-This project was created and is maintained by **Ego Joseph**. It is open-source and welcomes public contributions to enhance its scope, features, and practical applications.
+This project was created and is maintained by **Ego Joseph**. It is open-source and welcomes public contributions to enhance its scope, features and practical applications.
 
 ---
 
