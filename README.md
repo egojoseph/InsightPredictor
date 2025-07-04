@@ -53,6 +53,9 @@ python regression_model_v2/predictor.py
 ✅ Tests
 Basic unit tests are located in the /tests directory and validate prediction pipeline functionality.
 
+🔖 Version 1.07.25 was finalized and tagged on July 3, 2023.
+📌 Original and previous releases may have been removed and re-published.
+
 🤝 Contributions
 This project is open to improvement. Contributions are welcome through pull requests and issues.
 
